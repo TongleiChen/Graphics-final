@@ -1,0 +1,4 @@
+0507
+1. 剥离vertex shader and fragment shader
+2. rotation(finished)
+3. one model have several draw element (finished but texture not multiplied)
